@@ -4,11 +4,12 @@
 Gen Afya Yangu is an AI-powered health monitoring system that tracks heart rate and blood oxygen levels, detects anomalies, and provides recommendations. This MVP uses simulated data and is deployed on Streamlit Cloud.
 
 ## Access
-- URL: [Insert Streamlit Cloud URL, e.g., https://gen-afya-yangu.streamlit.app]
+- URL: [To be updated after deployment, e.g., https://gen-afya-yangu.streamlit.app]
 - Features:
   - Real-time health metrics display.
   - Anomaly detection using Isolation Forest.
   - Bilingual (English/Swahili) recommendations.
+  - Interactive dashboard with trends and alerts.
 
 ## How to Use
 1. Visit the app URL.
@@ -26,6 +27,7 @@ Gen Afya Yangu is an AI-powered health monitoring system that tracks heart rate 
 - Add LSTM for time-series anomaly detection.
 - Develop a mobile app with Flutter.
 - Expand to mental health monitoring using social media data.
+- Add a chatbot for conversational queries.
 
 ## Setup (for Developers)
 ```bash
